@@ -1,0 +1,1 @@
+Standard IQAC portal model.
